@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poppins&display=swap');
+
+body {
+    background-color: #03142b;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    margin: 0 auto;
+    overflow-y: scroll;
+    font-size: 14px;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #0b2242b4;
+}
+
+.logo {
+    padding-left: 20px;
+}
+header .logo img {
+    height: 80px;
+    width: 100%;
+}
+
+heeader nav {
+    padding-left: 30px;
+}
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding-right: 80px;
+}
+
+header nav ul li {
+    margin-left: 40px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #CB921D;
+    font-weight: 400;
+    font-size: 1.15rem;
+}
+
+.scot h1 {
+    color: #cb921d;
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 0 auto;
+    font-weight: 300;
+    padding-bottom: 20px;
+}
+
+.scot p {
+    max-width: 675px;
+    margin: auto;
+    padding-top: 20px;
+    text-align: justify;
+    padding-bottom: 100px;
+    font-size: 16px;
+}
+
+.stiles {
+    display: flex;
+}
+
+.stiles img {
+    width: 550px;
+    height: 350px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.amor h1 {
+    color: #cb921d;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.amor {
+    text-align:left;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+.malia {
+    display: flex;
+}
+
+.malia img {
+    width: 550px;
+    height: 350px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.love h1 {
+    color: #cb921d;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.love {
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 30px;
+}
+
+.lidia {
+    display: flex;
+}
+
+.lidia img {
+    width: 550px;
+    height: 350px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.happy h1 {
+    color: #cb921d;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.happy {
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.liam {
+    display: flex;
+}
+
+.liam img {
+    width: 550px;
+    height: 350px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.smile h1 {
+    color: #cb921d;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.smile {
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.jsso {
+    display: flex;
+}
+
+.jsso img {
+    width: 550px;
+    height: 350px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.jesus h1 {
+    color: #cb921d;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.jesus {
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.rose {
+    display: flex;
+}
+
+.rose img {
+    width: 550px;
+    height: 350px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.pedro h1 {
+    color: #cb921d;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.pedro {
+    text-align: left;
+    padding-left: 70px;
+    padding-top: 20px;
+}

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poppins&display=swap');
+
+body {
+    background-color: #03142b;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    margin: 0 auto;
+    overflow-y: scroll;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #0b2242b4;
+}
+
+.logo {
+    padding-left: 20px;
+}
+header .logo img {
+    height: 80px;
+    width: 100%;
+}
+
+heeader nav {
+    padding-left: 30px;
+}
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding-right: 80px;
+}
+
+header nav ul li {
+    margin-left: 40px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #CB921D;
+    font-weight: 400;
+    font-size: 1.15rem;
+}
+
+h1 {
+    /*padding-left: 40px;
+    padding-top: 15px;*/
+    color: #cb921d;
+    font-weight: 100;
+    text-align: center;
+    font-family: "Marriwiather", serif;
+    font-size: 30px;
+}
+
+.container p {
+    max-width: 650px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.jacy {
+    text-align:justify;
+    font-size: 14px;
+}
+
+section h1 {
+    padding-top:90px;
+    padding-left: 480px;
+    margin: 0 auto;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 65% 35%;
+}
+
+.foto img{
+    width: 110px;
+    padding-top: 40px;
+    padding-right: 70px;
+}
+
+.mere img {
+    width: 100%;
+    padding-top: 30px;
+}
+
+.ana img {
+    width: 90%;
+    padding-left: 40px;
+}
+
+.dal img {
+    width: 100%;
+    padding-top: 80px;
+}
+
+.dal h2 {
+    color: #cb921d;
+    text-align: right;
+    padding-right: 70px;
+    font-size: 26px;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+.dal p {
+    text-align: right;
+    padding-right: 70px;
+    margin: 0 auto;
+}
